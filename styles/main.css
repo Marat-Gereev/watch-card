@@ -1,0 +1,96 @@
+body {
+    max-width: 1440px;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.items {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.mini {
+    flex-direction: column;
+    margin: 210px 0 0 120px
+}
+
+div img {
+    padding: 20px 20px 20px 0;
+}
+
+.watch {
+    margin-top: 20px;
+}
+
+.title {
+    font-family: 'Josefin Sans';
+    font-weight: 400;
+    font-size: 72px;
+    margin: 60px 0 0 0;
+}
+
+.post {
+    margin-right: 120px;
+}
+
+.post-title {
+    font-family: 'Red Rose';
+    font-weight: 300;
+    font-size: 36px;
+    margin: 8px 0 5px 0;
+}
+
+
+.price {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: inline;
+}
+
+.post-price {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    display: inline;
+    line-height: 100px;
+    margin: 0 0px 0 47px;
+}
+
+.destribution {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.basket {
+    background-color: #000000;
+    padding: 30px 150px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 17px;
+}
+
+.ngay {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    padding: 30px 176px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
